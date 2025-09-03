@@ -1,0 +1,30 @@
+# Ignore everything
+*
+
+# Don’t ignore directories
+!*/
+
+# Allow these back + their contents
+!.gitignore
+
+!fish/
+!fish/**
+
+!hypr/
+!hypr/**
+
+!kitty/
+!kitty/**
+
+!swaync/
+!swaync/**
+
+!swaync-backup/
+!swaync-backup/**
+
+!vlc/
+!vlc/**
+
+!waybar/
+!waybar/**
+

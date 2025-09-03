@@ -1,0 +1,18 @@
+{
+  "position": "top-right",
+  "layer": "overlay",
+  "control-center-position": "right",
+  "notification-anchors": ["top"],
+  "widgets": ["title", "dnd", "notifications", "mpris"],
+  "widget-config": {
+    "title": {
+      "text": "Notifications"
+    },
+    "dnd": {
+      "text": "Do Not Disturb"
+    },
+    "notifications": {
+      "max-visible": 5
+    }
+  }
+}

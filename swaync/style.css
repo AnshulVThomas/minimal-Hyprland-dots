@@ -1,0 +1,95 @@
+/* Colors */
+
+@define-color bordercolor #99d1db;
+@define-color fontcolor #f1dfda;
+@define-color background rgba(26, 27, 38,1);
+@define-color buttoncolor #343a40;
+@define-color on_secondary #fdfdff;
+@define-color on_checked #99d1db;
+
+
+
+* {
+    font-family: "JetBrainsMono Nerd Font";
+}
+
+/* Control Center */
+
+.control-center {
+    border: 2px solid @bordercolor;
+    padding: 10px;
+
+    background: @background;
+}
+
+button {
+    border: 0px;
+    min-width: 35px;
+    background: @buttoncolor;
+    color: @on_secondary;
+    font-size: 16px;
+    box-shadow: none;
+}
+switch {
+    background: @buttoncolor; 
+}
+switch:checked {
+    background: @on_checked;
+}
+scale trough {
+    background: @buttoncolor;
+    border: none;
+}
+scale highlight {
+    background: @on_checked;
+
+}
+
+.notification-group-header {
+    font-size: 14px;
+}
+.widget-backlight,
+.widget-volume{
+    background: @background;
+}
+.widget-buttons-grid {
+    background: @background;
+}
+
+.widget-buttons-grid > flowbox > flowboxchild > button {
+    margin:5px;
+}
+
+/* Notification */
+
+.notification {
+    border: 3px solid @bordercolor;
+	border-radius: 10px;
+    padding:10px;
+}
+
+.notification-default-action:hover,
+.notification-action:hover {
+    color: #ffffff;
+    background: transparent;
+}
+
+.close-button {
+    background: @bordercolor;
+    text-shadow: none;
+    padding: 0;
+    border-radius: 15px;
+    margin-top: 9px;
+    margin-right: 10px;
+    min-width: 24px;
+    min-height: 24px;
+}
+
+.close-button:hover {
+    background: @on_secondary;
+    color: @buttoncolor;
+}
+
+.notification-group .notification-group-close-button .close-button {
+    margin: 15px 22px;
+}

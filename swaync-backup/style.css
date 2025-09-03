@@ -1,0 +1,16 @@
+.notification {
+  font-family: "JetBrainsMono Nerd Font";
+  font-size: 13px;
+  background-color: #1e1e2e;
+  color: #cdd6f4;
+  border: 2px solid #89b4fa;
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin: 6px;
+}
+
+.control-center {
+  background-color: #181825;
+  border-radius: 12px;
+  padding: 10px;
+}
