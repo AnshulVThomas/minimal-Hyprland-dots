@@ -22,7 +22,6 @@ Minimal and aesthetic dotfiles for [Hyprland](https://github.com/hyprwm/Hyprland
 - **Hyprland** window manager
 - **Waybar** for status bar
 - **Swaync** for notifications### Waybar
-![Waybar Screenshot](.screenshots/waybar.png)
 - **Kitty** terminal with custom config
 - **Wallpaper script** for automatic background
 
