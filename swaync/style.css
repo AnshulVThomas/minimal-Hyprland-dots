@@ -31,8 +31,10 @@ button {
     box-shadow: none;
 }
 switch {
-    background: @buttoncolor; 
+    background: @buttoncolor;
+    box-shadow: none;
 }
+
 switch:checked {
     background: @on_checked;
 }
