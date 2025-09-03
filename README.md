@@ -1,6 +1,6 @@
 # 🌌 Hyprland Dotfiles
 
-Minimal and aesthetic dotfiles for [Hyprland](https://github.com/hyprwm/Hyprland) on Linux.
+Minimal and aesthetic dotfiles for [Hyprland](https://github.com/hyprwm/Hyprland) on Fedora Linux.
 
 ---
 
