@@ -7,10 +7,10 @@ Minimal and aesthetic dotfiles for [Hyprland](https://github.com/hyprwm/Hyprland
 ## 📸 Screenshots
 
 ### Desktop
-![Desktop Screenshot](./screenshots/desktop.png)
+![Desktop Screenshot](.screenshots/desktop.png)
 
 ### Waybar
-![Waybar Screenshot](./screenshots/waybar.png)
+![Waybar Screenshot](.screenshots/waybar.png)
 
 *(Place your screenshots inside a `screenshots/` folder in the repo.)*
 
