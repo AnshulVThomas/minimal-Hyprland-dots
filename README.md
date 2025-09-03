@@ -12,6 +12,9 @@ Minimal and aesthetic dotfiles for [Hyprland](https://github.com/hyprwm/Hyprland
 ### Waybar
 ![Waybar Screenshot](.screenshots/waybar.png)
 
+### Swaync
+![Waybar Screenshot](.screenshots/SwayncandKitty.png)
+
 *(Place your screenshots inside a `screenshots/` folder in the repo.)*
 
 ---
