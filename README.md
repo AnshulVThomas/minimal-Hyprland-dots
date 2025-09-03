@@ -9,13 +9,11 @@ Minimal and aesthetic dotfiles for [Hyprland](https://github.com/hyprwm/Hyprland
 ### Desktop
 ![Desktop Screenshot](.screenshots/desktop.png)
 
-### Waybar
-![Waybar Screenshot](.screenshots/waybar.png)
+
 
 ### Swaync
 ![Waybar Screenshot](.screenshots/SwayncandKitty.png)
 
-*(Place your screenshots inside a `screenshots/` folder in the repo.)*
 
 ---
 
@@ -23,7 +21,8 @@ Minimal and aesthetic dotfiles for [Hyprland](https://github.com/hyprwm/Hyprland
 
 - **Hyprland** window manager
 - **Waybar** for status bar
-- **Swaync** for notifications
+- **Swaync** for notifications### Waybar
+![Waybar Screenshot](.screenshots/waybar.png)
 - **Kitty** terminal with custom config
 - **Wallpaper script** for automatic background
 
@@ -41,7 +40,6 @@ Make sure you have these installed:
 - A Nerd Font (e.g. JetBrainsMono Nerd Font)
 - [Rofi](https://github.com/davatorium/rofi)
 - [Wlogout](https://github.com/ArtsyMacaw/wlogout)
-- [VLC](https://www.videolan.org/vlc/)
 - [Brightnessctl](https://github.com/Hummer12007/brightnessctl)
 - [Grim](https://sr.ht/~emersion/grim/)
 - [Slurp](https://github.com/emersion/slurp)
