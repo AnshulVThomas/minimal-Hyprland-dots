@@ -6,7 +6,8 @@
 
 # Allow these back + their contents
 !.gitignore
-
+!.screenshots/
+!.screenshots/*
 !fish/
 !fish/**
 
