@@ -23,6 +23,9 @@
 !swaylock/
 !swaylock/**
 
+!wlogout/
+!wlogout/**
+
 !swaync-backup/
 !swaync-backup/**
 
