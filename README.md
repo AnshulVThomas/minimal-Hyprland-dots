@@ -14,6 +14,8 @@ Minimal and aesthetic dotfiles for [Hyprland](https://github.com/hyprwm/Hyprland
 ### Swaync
 ![Waybar Screenshot](.screenshots/SwayncandKitty.png)
 
+### Wlogout
+![Wlogout Screenshot](.screenshots/wlogout.png)
 
 ---
 
