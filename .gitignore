@@ -7,7 +7,7 @@
 # Allow these back + their contents
 !.gitignore
 !.screenshots/
-!.screenshots/*
+!.screenshots/**
 !fish/
 !fish/**
 
@@ -19,6 +19,9 @@
 
 !swaync/
 !swaync/**
+
+!swaylock/
+!swaylock/**
 
 !swaync-backup/
 !swaync-backup/**

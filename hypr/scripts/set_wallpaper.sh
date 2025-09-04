@@ -13,5 +13,5 @@ hyprctl hyprpaper reload ,"$IMAGE"
 
 # Save selected wallpaper for restoring on next login
 echo "$IMAGE" > "$HOME/.config/hypr/wallpaper_path"
-ln -sf "$IMAGE" ~/.config/wlogout/wallpaper.png
+ffmpeg -i "$IMAGE" -vf "gblur=sigma=10" "$HOME/.config/.wallpaper/wallpaper_blur.png" -y
 
