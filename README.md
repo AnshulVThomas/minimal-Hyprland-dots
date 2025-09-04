@@ -48,8 +48,6 @@ Make sure you have these installed:
 - [PipeWire](https://pipewire.org/) *(for `wpctl` volume control)*
 - [CopyQ](https://hluk.github.io/CopyQ/)
 - [Hyprpicker](https://github.com/hyprwm/hyprpicker)
-- [Pavucontrol](https://freedesktop.org/software/pulseaudio/pavucontrol/)
-
 
 ---
 
