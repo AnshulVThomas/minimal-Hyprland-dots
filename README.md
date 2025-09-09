@@ -9,23 +9,11 @@ Minimal and aesthetic dotfiles for [Hyprland](https://github.com/hyprwm/Hyprland
 ### Desktop
 ![Desktop Screenshot](.screenshots/desktop.png)
 
-
-
 ### Swaync
 ![Waybar Screenshot](.screenshots/SwayncandKitty.png)
 
 ### Wlogout
 ![Wlogout Screenshot](.screenshots/wlogout.png)
-
----
-
-## ⚙️ Features
-
-- **Hyprland** window manager
-- **Waybar** for status bar
-- **Swaync** for notifications### Waybar
-- **Kitty** terminal with custom config
-- **Wallpaper script** for automatic background
 
 ---
 
