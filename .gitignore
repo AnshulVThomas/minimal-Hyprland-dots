@@ -6,8 +6,13 @@
 
 # Allow these back + their contents
 !.gitignore
+
 !.screenshots/
 !.screenshots/**
+
+!rofi/
+!rofi/**
+
 !fish/
 !fish/**
 
